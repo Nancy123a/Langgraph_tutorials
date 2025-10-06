@@ -9,3 +9,7 @@ arxiv
 wikipedia
 ## tracking/evaluation of ur apps
 langsmith
+langchain_tavily
+
+langchain-mcp-adapters
+mcp
